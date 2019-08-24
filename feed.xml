@@ -3,10 +3,32 @@
     <title>1 Series Guides</title>
     <link href="https://willjjones.github.io/feed.xml" rel="self" />
     <link href="https://willjjones.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-08-24T23:41:19+01:00</updated>
     <author>
         <name>Will</name>
     </author>
     <id>https://willjjones.github.io</id>
 
+    <entry>
+        <title>This is my first post</title>
+        <author>
+            <name>Will</name>
+        </author>
+        <link href="https://willjjones.github.io/this-is-my-first-post.html"/>
+        <id>https://willjjones.github.io/this-is-my-first-post.html</id>
+
+        <updated>2019-08-24T23:41:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a post, lets see what it looks like when it spublished on my big boy. This is a happy message.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a post, lets see what it looks like when it spublished on my big boy. </p>
+<p> </p>
+<p class="msg msg--success">This is a happy message.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
